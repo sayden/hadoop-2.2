@@ -7,6 +7,6 @@
     </property>
 <property>
     <name>mapred.job.tracker</name>
-    <value>asusnotebook:9001</value>
+    <value>asusnotebook:8021</value>
 </property>
 </configuration>

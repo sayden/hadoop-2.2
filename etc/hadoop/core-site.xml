@@ -3,7 +3,7 @@
 <configuration>
     <property>
         <name>fs.default.name</name>
-        <value>hdfs://asusnotebook</value>
+        <value>hdfs://asusnotebook:8022</value>
     </property>
     <property>
         <name>hadoop.tmp.dir</name>
